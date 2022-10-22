@@ -7,11 +7,15 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pmin16314&style=flat-square&color=blue" alt=""/>
   </div>
+  
+  
 
 ## I’m Panchana Madara
 - A fresh graduate in Mechanical Engineering specialization in Aeronautical stream
 - Software Developer
 - Freelancer 
+
+
 
 ### :hammer_and_wrench: Languages and Technologies :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,8 +29,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:panchanam97@gmail.com)
 
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pmin16314&title_color=8f22ed&show_icons=true" />
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmin16314&layout=compact" />
+
+
+
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pmin16314&title_color=8f22ed&show_icons=true&" />
+<img align ="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmin16314&layout=compact" />
 
 
 <!---
